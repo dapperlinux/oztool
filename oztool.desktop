@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Oztool
+GenericName=Oz Tool
+Comment=Edit oz profiles
+Exec=oztool
+Icon=administration
+Terminal=false
+Type=Application
+StartupNotify=false
+Keywords=oz;profiles;
+Categories=X-GNOME-Sundry
